@@ -1,8 +1,8 @@
 {
   "data": {
     "servers": {
-      "server1": "https://raw.githubusercontent.com/hackertmm-adi/APP-DATA/main/data_injection/USER_BRQVYWXZ_W3E46P/in_startv_hotstar/Server1.zip",
-      "server2": "https://raw.githubusercontent.com/hackertmm-adi/APP-DATA/main/data_injection/USER_BRQVYWXZ_W3E46P/in_startv_hotstar/Server1.zip"
+      "server1": "https://github.com/hackertmm-adi/APP-DATA/raw/refs/heads/main/data_injection/USER_BRQVYWXZ_W3E46P/in_startv_hotstar/Server1.zip",
+      "server2": "https://github.com/hackertmm-adi/APP-DATA/raw/refs/heads/main/data_injection/USER_BRQVYWXZ_W3E46P/in_startv_hotstar/Server1.zip"
     }
   }
 }
